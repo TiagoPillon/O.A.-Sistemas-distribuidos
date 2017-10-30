@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2017\Projects\ClientAsync\ClientAsync\bin\Debug\ClientAsync.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\ClientAsync\ClientAsync\bin\Debug\ClientAsync.exe
+c:\users\acer\documents\visual studio 2017\Projects\ClientAsync\ClientAsync\bin\Debug\ClientAsync.pdb
+c:\users\acer\documents\visual studio 2017\Projects\ClientAsync\ClientAsync\obj\Debug\ClientAsync.csproj.CoreCompileInputs.cache
+c:\users\acer\documents\visual studio 2017\Projects\ClientAsync\ClientAsync\obj\Debug\ClientAsync.exe
+c:\users\acer\documents\visual studio 2017\Projects\ClientAsync\ClientAsync\obj\Debug\ClientAsync.pdb
+C:\Users\Acer\Desktop\Cliente_Servidor_Assincrono\ClientAsync\ClientAsync\bin\Debug\ClientAsync.exe.config
+C:\Users\Acer\Desktop\Cliente_Servidor_Assincrono\ClientAsync\ClientAsync\bin\Debug\ClientAsync.exe
+C:\Users\Acer\Desktop\Cliente_Servidor_Assincrono\ClientAsync\ClientAsync\bin\Debug\ClientAsync.pdb
+C:\Users\Acer\Desktop\Cliente_Servidor_Assincrono\ClientAsync\ClientAsync\obj\Debug\ClientAsync.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Cliente_Servidor_Assincrono\ClientAsync\ClientAsync\obj\Debug\ClientAsync.exe
+C:\Users\Acer\Desktop\Cliente_Servidor_Assincrono\ClientAsync\ClientAsync\obj\Debug\ClientAsync.pdb

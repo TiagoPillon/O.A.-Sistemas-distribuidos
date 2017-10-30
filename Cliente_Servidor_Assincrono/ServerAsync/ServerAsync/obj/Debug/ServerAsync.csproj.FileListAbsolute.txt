@@ -1,0 +1,7 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\obj\Debug\ServerAsync.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\obj\Debug\ServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\bin\Debug\ServerAsync.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\bin\Debug\ServerAsync.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\bin\Debug\ServerAsync.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\obj\Debug\ServerAsync.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\ServerAsync\ServerAsync\obj\Debug\ServerAsync.pdb

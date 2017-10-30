@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.pdb
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe.config
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.pdb
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.exe
+C:\Users\Acer\Desktop\Cliente_Servidor_Sincrono\SynchronousSocketListener\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.pdb

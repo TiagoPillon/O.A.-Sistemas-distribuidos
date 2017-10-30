@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\bin\Debug\WSphp.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\bin\Debug\WSphp.exe
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\bin\Debug\WSphp.pdb
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.csproj.CoreCompileInputs.cache
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.exe
+c:\users\acer\documents\visual studio 2017\Projects\WSphp\WSphp\obj\Debug\WSphp.pdb

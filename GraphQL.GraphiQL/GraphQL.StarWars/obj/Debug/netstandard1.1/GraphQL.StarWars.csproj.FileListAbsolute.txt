@@ -1,0 +1,3 @@
+C:\Users\Acer\Source\Repos\graphql-dotnet\src\GraphQL.StarWars\bin\Debug\netstandard1.1\GraphQL.StarWars.deps.json
+C:\Users\Acer\Source\Repos\graphql-dotnet\src\GraphQL.StarWars\obj\Debug\netstandard1.1\GraphQL.StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\graphql-dotnet\src\GraphQL.StarWars\obj\Debug\netstandard1.1\GraphQL.StarWars.AssemblyInfo.cs

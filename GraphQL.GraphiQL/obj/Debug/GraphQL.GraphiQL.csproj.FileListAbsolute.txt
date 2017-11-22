@@ -1,0 +1,2 @@
+C:\Users\Acer\Source\Repos\graphql-dotnet\src\GraphQL.GraphiQL\obj\Debug\GraphQL.GraphiQL.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Source\Repos\graphql-dotnet\src\GraphQL.GraphiQL\obj\Debug\GraphQL.GraphiQL.csproj.CoreCompileInputs.cache
